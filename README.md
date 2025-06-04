@@ -19,3 +19,8 @@ Hi, I'm Souffiane, a 24-year-old **Full-Stack Developer** passionate about build
 [![](https://visitcount.itsvg.in/api?id=iiTzSenn&icon=10&color=11)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/iiTzSenn/iiTzSenn/output/snake.svg" alt="Snake animation" />
+
+###
