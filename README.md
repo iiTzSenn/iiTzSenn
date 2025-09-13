@@ -21,8 +21,7 @@ Actualmente trabajo como **Backend Developer** en **Servi Global Trans**, diseñ
 - ⚙️ **Diseño y desarrollo de APIs y microservicios** con **FastAPI, Node.js y Spring Boot**.  
 - 🗄 **Gestión y optimización de bases de datos** relacionales y no relacionales (**PostgreSQL, MySQL, MongoDB, Redis**).  
 - 💻 **Desarrollo frontend** de servicios internos con **React, Vue.js, TailwindCSS, TypeScript, HTML y CSS**.  
-- 🚀 **Contenerización, despliegue y DevOps** con **Docker, Git, Jenkins y AWS**.  
-- 🔒 **Autenticación y autorización** con **OAuth2 y JWT** para garantizar seguridad en los sistemas.  
+- 🚀 **Contenerización, despliegue y DevOps** con **Docker, Git, Jenkins y AWS**. 
 
 ---
 
