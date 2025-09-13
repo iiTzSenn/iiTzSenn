@@ -1,73 +1,37 @@
 ![GitHub-personal-banner](https://github.com/user-attachments/assets/510f769b-4487-4570-ad68-6081d0027a90)
-<br clear="both">
+
+Actualmente trabajo como **Backend Developer** en **Servi Global Trans**, diseñando y desarrollando soluciones que optimizan los sistemas internos y la gestión de datos de la empresa.
+
+---
+
+### 🚀 Tecnologías y herramientas
 
 <div align="center">
-  <img height="205" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png  "  />
+
+| **Backend** | **Bases de datos** | **Frontend** | **DevOps** |
+|-------------|-----------------|--------------|------------|
+| <div align="center">![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=openjdk) ![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)</div> | <div align="center">![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)</div> | <div align="center">![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwind-css&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)</div> | <div align="center">![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)</div> |
+
 </div>
 
-###
+---
 
+### 📊 Habilidades
+
+- ⚙️ **Diseño y desarrollo de APIs y microservicios** con **FastAPI, Node.js y Spring Boot**.  
+- 🗄 **Gestión y optimización de bases de datos** relacionales y no relacionales (**PostgreSQL, MySQL, MongoDB, Redis**).  
+- 💻 **Desarrollo frontend** de servicios internos con **React, Vue.js, TailwindCSS, TypeScript, HTML y CSS**.  
+- 🚀 **Contenerización, despliegue y DevOps** con **Docker, Git, Jenkins y AWS**.  
+- 🔒 **Autenticación y autorización** con **OAuth2 y JWT** para garantizar seguridad en los sistemas.  
+
+---
+
+### 📈 Mis estadísticas de GitHub
 <div align="center">
-  <a href="https://www.linkedin.com/in/soufiane-assari/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:seassari01@icloud.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="25" alt="gmail logo"  />
-  </a>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=iiTzSenn&rank_icon=github&hide_title=true&hide_border=true&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iiTzSenn&hide_border=true&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff" alt="Top Langs" />
 </div>
 
-###
+---
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=iiTzSenn.iiTzSenn&left_text=Visitors"  />
-</div>
-
-###
-
-<h1 align="center">Hey there 👋</h1>
-
-###
-
-<h2 align="left">👩‍💻  About Me</h2>
-
-###
-
-<h4 align="center">Hi, I'm Souffiane, a 24-year-old Full-Stack Developer passionate about building robust and scalable applications. While I enjoy working across the entire stack, my primary career goal is to specialize in backend development or pivot towards Artificial Intelligence. I'm always eager to learn new technologies and tackle challenging problems that push the boundaries of what's possible.</h4>
-
-###
-
-<h2 align="left">🛠 Language and tools</h2>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="58" alt="java logo"  />
-  <img width="51" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="58" alt="python logo"  />
-  <img width="51" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="58" alt="postgresql logo"  />
-  <img width="51" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="58" alt="html5 logo"  />
-  <img width="51" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="58" alt="css3 logo"  />
-  <img width="51" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="58" alt="javascript logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=iiTzSenn&locale=en&mode=weekly&theme=shades-of-purple&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-###
+> *"Data is the new oil, but only the right engineering can turn it into value."*
